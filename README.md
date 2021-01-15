@@ -15,3 +15,4 @@ SuppliesRUs expects that glue stick orders will be the same as stapler orders. S
 
 
 Data Created with random generator: https://drive.google.com/file/d/1PNs-BiQMEki7mgQy9f3cbUbbe8MOV8FH/view?usp=sharing
+Link to HTML Preview: https://htmlpreview.github.io/?https://github.com/Danielbrey/BusinessAnalysis/blob/main/SchoolSuppliesAnalysis.html
