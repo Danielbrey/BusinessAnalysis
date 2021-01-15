@@ -1,5 +1,8 @@
 # BusinessAnalysis - School Supplies
 
+Data Created with random generator: https://drive.google.com/file/d/1PNs-BiQMEki7mgQy9f3cbUbbe8MOV8FH/view?usp=sharing\
+Link to HTML Preview: https://htmlpreview.github.io/?https://github.com/Danielbrey/BusinessAnalysis/blob/main/SchoolSuppliesAnalysis.html\
+
 Imagine a school supplies business SuppliesRUs, has two stores. They currently have two suppliers for the three products that they sell: staplers, scissors, and tape. Supplier A offers staplers and scissors, and Supplier B offers tape. Suppliers ship the products directly to the stores. Each supplier ships to each of the two stores, so 4 total shipments are made each week.
 
 Beginning 8/3/2015, SuppliesRUs would like to start selling glue sticks. SuppliesRUs must pay for shipping costs from the supplier to their stores. The glue sticks would be shipped with the other items from the suppliers. Both suppliers make glue sticks and have given the prices to supply their glue sticks to SuppliesRUs:
