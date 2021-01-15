@@ -12,3 +12,6 @@ For shipping, SuppliesRUs has two choices in carriers from each supplier and can
 - Both carriers can fit up to 45,000 pounds per shipment.
 
 SuppliesRUs expects that glue stick orders will be the same as stapler orders. SuppliesRUs also expects that orders for all of its products will grow 15% year over year. They must decide which supplier to choose for supplying its glue sticks for the next year.
+
+
+Data Created with random generator: https://drive.google.com/file/d/1PNs-BiQMEki7mgQy9f3cbUbbe8MOV8FH/view?usp=sharing
